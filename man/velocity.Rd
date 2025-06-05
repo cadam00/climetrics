@@ -23,10 +23,6 @@
 
 \description{
 The method is developed based on the method represented in the paper Hamnan et al. (2015). Two additional functions including Distance-based (\code{dVelocity}) and Gradiant-based velocity  (\code{gVelocity}) are also implemented and available in the package.
-
-- Hamann, A., Roberts, D.R., Barber, Q.E., Carroll, C. and Nielsen, S.E. (2015). Velocity of climate change algorithms for guiding conservation and management. Global Change Biology, 21(2), pp.997-1004.
-
-
 }
 
 \value{
@@ -40,6 +36,9 @@ A single Raster layer (RasterLayer or SpatRaster depending on the input)
 
 }
 
+\references{
+- Hamann, A., Roberts, D.R., Barber, Q.E., Carroll, C. and Nielsen, S.E. (2015). Velocity of climate change algorithms for guiding conservation and management. Global Change Biology, 21(2), pp.997-1004.
+}
 
 \examples{
 
