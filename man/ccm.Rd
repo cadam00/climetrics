@@ -48,18 +48,6 @@ The metrics include:
 - dVelocity (dVe): Distance-based climate change velocity (based on the method used in Garcia et al. (2014))
 
 - gVelocity (gVe): Gradiant-based climate change velocity (based on the method represented in Burrow et al. (2011))
-
-
-References:
-
-- Burrows MT, Schoeman DS, Buckley LB, Moore P, Poloczanska ES, Brander KM, Brown C, Bruno JF, Duarte CM, Halpern BS, Holding J. (2011) The pace of shifting climate in marine and terrestrial ecosystems. Science. Nov 4;334(6056):652-5.
-
-- Garcia, R.A., Cabeza, M., Rahbek, C. and Araújo, M.B. (2014). Multiple dimensions of climate change and their implications for biodiversity. Science, 344(6183).
-
-- Hamann, A., Roberts, D.R., Barber, Q.E., Carroll, C. and Nielsen, S.E. (2015). Velocity of climate change algorithms for guiding conservation and management. Global Change Biology, 21(2), pp.997-1004.
-
-
-
 }
 
 
@@ -75,6 +63,13 @@ A Raster object (RasterLayer or RasterStackBrick or SpatRaster depending on the 
 \url{https://r-gis.net/}
 }
 
+\references{
+- Burrows MT, Schoeman DS, Buckley LB, Moore P, Poloczanska ES, Brander KM, Brown C, Bruno JF, Duarte CM, Halpern BS, Holding J. (2011) The pace of shifting climate in marine and terrestrial ecosystems. Science. Nov 4;334(6056):652-5.
+
+- Garcia, R.A., Cabeza, M., Rahbek, C. and Araújo, M.B. (2014). Multiple dimensions of climate change and their implications for biodiversity. Science, 344(6183).
+
+- Hamann, A., Roberts, D.R., Barber, Q.E., Carroll, C. and Nielsen, S.E. (2015). Velocity of climate change algorithms for guiding conservation and management. Global Change Biology, 21(2), pp.997-1004.
+}
 
 \examples{
 \donttest{
