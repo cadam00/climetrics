@@ -22,8 +22,6 @@
 The method is developed based on Burrow et al. (2011) which is a gradient-based velocity of climate change. Climate velocity can inform conservation planning and action in a warming world.
 
 Distance-based velocity is also implemented in the package and is available through the ccm function.
-
-Burrows MT, Schoeman DS, Buckley LB, Moore P, Poloczanska ES, Brander KM, Brown C, Bruno JF, Duarte CM, Halpern BS, Holding J. The pace of shifting climate in marine and terrestrial ecosystems. Science. 2011 Nov 4;334(6056):652-5..
 }
 
 \value{
@@ -35,6 +33,10 @@ A single Raster layer (RasterLayer or SpatRaster depending on the input)
 
 \email{taheri.shi@gmail.com}; \email{naimi.b@gmail.com}
 
+}
+
+\references{
+Burrows MT, Schoeman DS, Buckley LB, Moore P, Poloczanska ES, Brander KM, Brown C, Bruno JF, Duarte CM, Halpern BS, Holding J. The pace of shifting climate in marine and terrestrial ecosystems. Science. 2011 Nov 4;334(6056):652-5.
 }
 
 \examples{
