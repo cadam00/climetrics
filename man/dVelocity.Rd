@@ -24,8 +24,6 @@
 \description{
 The method is developed based on the approach used in Garcia et al. (2014)
 Gradiant-based velocity is also implemented in the package and is available through the \code{gVelocity} function.
-
-Garcia, R.A., Cabeza, M., Rahbek, C. and Araújo, M.B. (2014). Multiple dimensions of climate change and their implications for biodiversity. Science, 344(6183).
 }
 
 \value{
@@ -39,6 +37,9 @@ A single Raster layer (RasterLayer or SpatRaster depending on the input)
 
 }
 
+\references{
+Garcia, R.A., Cabeza, M., Rahbek, C. and Araújo, M.B. (2014). Multiple dimensions of climate change and their implications for biodiversity. Science, 344(6183).
+}
 
 \examples{
 
